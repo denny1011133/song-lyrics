@@ -1,0 +1,18 @@
+.lyrics-box {
+  border: 1px solid #dadada;
+}
+body {
+  background-image: url(https://images.pexels.com/photos/3394666/pexels-photo-3394666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size: contain;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+}
+
+h3{
+  border-bottom-style: solid;
+  border-bottom-color:gray;
+  
+}
+.navbar {
+  background-color:#5DADE2!important;
+}
